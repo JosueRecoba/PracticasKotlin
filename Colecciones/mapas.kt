@@ -51,10 +51,5 @@ fun main(){
     var sortedNums = nums.toSortedMap();
     println("Mapa ordenado: $sortedNums");
 
-    //Reto:
-    //Crear un directorio español - ingles usando un mapa
-    //1-Funcion para crear o cargar el directorio
-    //2- Funcion para conaultar, resiba una palabra en español 
-    // y regrese su traduccion, sino existe, traduccion, un valor por default
-    //3- impirmir todo el directorio 
+
 }
